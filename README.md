@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicroBytex/MicroBytex/main/assets/axoloth-banner.png" alt="The Axoloth Banner" width="800px">
+  <img src="https://github.com/MicroBytex/forum/blob/main/haz-un-banner-en-donde-haiga-un-texto-que-diga--th.png?raw=true" alt="The Axoloth Banner" width="800px">
 
   # The Axoloth
   
@@ -68,7 +68,7 @@ Need help? Reach out to us:
 <div align="center">
   <p>Powered By</p>
   <p>
-    <img src="https://raw.githubusercontent.com/MicroBytex/MicroBytex/main/assets/tech-stack-1.png" alt="Technology 1" width="200px">
-    <img src="https://raw.githubusercontent.com/MicroBytex/MicroBytex/main/assets/tech-stack-2.png" alt="Technology 2" width="200px">
+    <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTq2LX7w4UY7JrWmqHZ9aJRHKinvw4_IIO3C_MWbybGL0wPqJIbduooihM56OK_quKEj7_p-k0QD6laGSblw9GzhFIG41tF3yIAoCXu9MU" alt="Technology 1" width="200px">
+    <img src="https://www.kali.org/wallpapers/images/2024/kali-purple-whirlwind.jpg" alt="Technology 2" width="200px">
   </p>
 </div>
